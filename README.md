@@ -1,3 +1,4 @@
+# Pet Simulator 99 Script 2024 [PS99]
 copy this script and paste into injector this is an all in 1
 script- loadstring(game:HttpGet('https://raw.githubusercontent.com/Hegejfvsjw/Script22/main/Script.lua'))()
 To run script you need an injector vega,delta,fluxus,pr arceous x is best https://spdmteam.com/
