@@ -18,3 +18,33 @@ PS99 Trade Scam Pet Simulator 99 Pet Sim 99 PS99 Dupe #petsimulator99 #petsim99 
 lau script so works with all injectors
 
 u can use and install apk injectors on bluestacks,mumu player there are 2 scripts basic and advance
+
+This is a working free Pet Simulator 99 (PS99) Script/Gui. It is undetectable. It works on all decent executors like Codex, Arceus X, Hydrogen, etc. Join the discord to be aware of new updates of this Script/Gui. Remeber ZapHub has a Premium Version with more Op feautres and Keyless.
+
+--Auto Farm Tab • Infinite Pet Speed • Auto Farm • Auto Collect Coins/Lootbags/Diamonds/Items • Auto Use Ultimate • Auto Teleport To Best Area • Auto Buy Next Area • Auto Rebirth • Auto Use All Misc Items • Auto Use Breakable Sprinkler • Auto Use TNT • Auto Use TNT Crate
+
+--Egg Tab • Auto Open Egg • Disable Egg Animation • Auto Make Pets Gold - Premium • Auto Make Rainbow Gold - Premium
+
+--Auto Quest Tab • Auto Area Quest - Premium • Ignore Some Area Quest - Premium
+
+--Main Tab • Auto Claim Playtime Rewards • Auto Claim Rank Rewards • Auto Claim Daily Chest • Auto Claim Hidden Presents • Auto Pop Balloons • Auto Buy Merchants • Auto Buy Vending Machines
+
+--Event Tab (Prison) • Auto Open Prison Chest • Use Golden Prison Key
+
+--Event Tab (Police Station) • Auto Break Police Station Chest • Break Police Station Chest With Pets • Auto Buy Police Station Egg
+
+--Event Tab (Summer) • Auto Teleport To Best Summer Egg • Auto Buy Nearest Summer Egg
+
+--Automatic Tab • Auto Eat Fruits • Auto Use Buffs • Auto Use Potions • Auto Open All Gifts • Auto Combine All Keys • Auto Open All Chests • Auto Spin All Wheels • Auto Upgrade Potions - Premium • Auto Upgrade Enchants - Premium
+
+--Chest Tab • Open All Daily Chest • Break All Boss Chest
+
+--Minigames Tab • Enter to Obby (All Obby) • Finish the Obby (All Obby) • Auto Minifield • Auto Atlantis • Auto Fishing and Advanced Fishing • Auto Dig and Advanced Dig (For Digsite) • Auto Dig Row Below (For Digsite) • Auto Farm Chest (For Digsite) • Chest ESP (For Digsite)
+
+--Teleport Tab • Teleport to Main World • Teleport to Tech World • Teleport to Trading World • Teleport to Spawn • Teleport to All Area • Teleport to All Machines • Teleport to All Merchats • Teleport to All Vending Machines
+
+--Player Tab • Walk Speed • No Clip
+
+--Fly Tab • Fly • Up and Super Up • Down and Super Down
+
+--Misc Tab • FPS Booster • White Screen (GPU Care) • Server Hop (Best Ping) • Rejoin (Random Server) • Rejoin (Same Server)
